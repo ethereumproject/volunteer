@@ -32,10 +32,10 @@ As we get more volunteers we can begin to close issues and focus on security ori
 **Blockchain Explorer**
 We would like to maintain an open source blockchain explorer that is capable of verifying contracts with their compiled counterparts. This project is not directly related to the protocol, it does make the protocol more useful. If anyone is interested in assisting existing open source Ethereum block explorers or starting their own please notify us so we can contribute.
 
-... more to come **
-
 **Multisig Trust Contract**
 A contract to serve as a trust for development
 and general enough to be repurposed for needs. This would allow donations to developers to be managed in a
 transparent way and access can be controlled by active developers who
 have built trust with the community. 
+
+... more to come ...
