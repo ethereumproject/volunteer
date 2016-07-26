@@ -5,11 +5,11 @@ Are you interested in volunteering your time to help the development of Ethereum
 ## Structure
 
 I propose we operate our development in a similar fashion to Angel
-volunteer system found at CCC. Existing volunteers will do their best to
-help new volunteers, but there is no leadership heirachy.
-Operating on a merit system, you are judged only on your code
+volunteer system found at CCC events. Existing volunteers will do their best to
+help new volunteers, but there is no strict leadership heirachy.
+Instead of a chain of command, I propose we operate on a merit system, you are judged only on your code
 contributions, not your age, race, gender, sex or anything else, just
-the code you commit. Donations will be fairly distributed among active volunteers.
+the code you commit. Donations received will be fairly distributed among active volunteers.
 
 If you see anything that needs to be fixed and you are capable, please
 fix it. Create a local fork, make the change and submit a pull
