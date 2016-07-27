@@ -27,6 +27,9 @@
 * setup our clients
 * need servers, etc
 
+## block explorer
+
+* @matthewjamesr, @eiaine
 
 # Later
 
