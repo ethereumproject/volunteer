@@ -38,4 +38,12 @@ and general enough to be repurposed for needs. This would allow donations to dev
 transparent way and access can be controlled by active developers who
 have built trust with the community. 
 
+**Visual smart contract language**
+Solidity is not well understood by general people specially lawyers of the future.
+https://github.com/ethereumclassic/README/issues/23
+
+A code generator that translates Ethereum Classic UML like smart contracts to Solidity language utilizing for example Acceleo and Papyrus plugins inside Eclipse. That is basically a model to text transformation whereas the model is UML and the text is Solidity code.
+
+In the end a model to text transformation powered by Acceleo Engine would be running to compile that in the backstage.
+
 ... more to come ...
