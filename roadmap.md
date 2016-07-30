@@ -31,6 +31,15 @@
 
 * @matthewjamesr, @eiaine
 
+## Classic Guide
+
+* Migration of homestead-guide
+* Community Initiative
+* Add classic specific topics
+* change links from eth to point to classic github 
+* push to github.com/ethereumclassic as needed
+* @realcodyburns
+
 # Later
 
 * mist browser
