@@ -20,8 +20,8 @@ request.
 
 If you want to make fundamental changes to the system please consult
 with your peers, have them review your code, and make sure we have
-consensus. If the issue is contentious we can include the wider
-community so their input heard too.
+consensus. If the issue is contentious we should work to include the input of the wider
+community.
 
 
 ## Projects
