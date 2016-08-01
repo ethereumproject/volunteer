@@ -7,7 +7,7 @@
 * exp 27 Jul
 * @whatisgravity
 
-## wallet
+## Mist Wallet
 
 * ignores HF chain (192000 block specifically)
 * show prices for ETC
