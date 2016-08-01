@@ -2,9 +2,6 @@
 
 Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can help. This is a decentralized project run by volunteers.
 
-## Submit Press Releases
-Copy [template](https://github.com/ethereumclassic/ethereumclassic.github.io/blob/master/press_releases/a_really_great_title%40example.com.md) and write new press release [here](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/master/press_releases)
-
 ## Structure
 
 I propose we operate our development in a similar fashion to Angel
