@@ -44,3 +44,4 @@
 
 * mist browser
 * (idea) switchable wallet, that can work in both chains
+* A security focused ETC client as an alternative to the current Mist wallet GUI client
