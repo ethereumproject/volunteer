@@ -10,7 +10,7 @@ I propose we operate our development in a similar fashion to Angel
 volunteer system found at CCC events. Existing volunteers will do their best to
 help new volunteers, but there is no strict leadership heirachy.
 Instead of a chain of command, I propose we operate on a merit system, you are judged only on your code & discussion
-contributions, not your age, race, gender, sex or anything else, just
+contributions, not your age, race, gender, sex, nationality or anything else, just
 the code you commit. You do not even need to own any Ethereum classic, if you have a good idea or a well reasoned contribution, that is all that matters. Any donations received will be fairly distributed among active volunteers.
 
 If you see anything that needs to be fixed and you are capable, please
