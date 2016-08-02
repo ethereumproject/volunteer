@@ -11,7 +11,7 @@ volunteer system found at CCC events. Existing volunteers will do their best to
 help new volunteers, but there is no strict leadership heirachy.
 Instead of a chain of command, I propose we operate on a merit system, you are judged only on your code & discussion
 contributions, not your age, race, gender, sex, nationality or anything else, just
-the code you commit. You do not even need to own any Ethereum classic, if you have a good idea or a well reasoned contribution, that is all that matters. Any donations received will be fairly distributed among active volunteers.
+the code you commit. You do not even need to own any Ethereum classic, if you have a good idea or a well reasoned contribution, that is all that matters.
 
 If you see anything that needs to be fixed and you are capable, please
 fix it. Create a local fork, make the change and submit a pull
@@ -22,6 +22,7 @@ with your peers, have them review your code, and make sure we have
 consensus. If the issue is contentious we should work to include the input of the wider
 community.
 
+Any donations received will be fairly distributed among active volunteers.
 
 ## Projects
 A wide variety of projects need assistance, and support for languages not yet supported is also appreciated. 
