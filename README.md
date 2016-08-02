@@ -1,15 +1,17 @@
 # Volunteering
 
-Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can help. This is a decentralized project run by volunteers.
+Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can contribute to Ethereum Classic development. This is a decentralized project run by volunteers.
+
+If you are interested in community organizing, you can find more information about volunteering with other community organizers here: https://github.com/ethereumclassic
 
 ## Structure
 
 I propose we operate our development in a similar fashion to Angel
 volunteer system found at CCC events. Existing volunteers will do their best to
 help new volunteers, but there is no strict leadership heirachy.
-Instead of a chain of command, I propose we operate on a merit system, you are judged only on your code
+Instead of a chain of command, I propose we operate on a merit system, you are judged only on your code & discussion
 contributions, not your age, race, gender, sex or anything else, just
-the code you commit. Donations received will be fairly distributed among active volunteers.
+the code you commit. You do not even need to own any Ethereum classic, if you have a good idea or a well reasoned contribution, that is all that matters. Any donations received will be fairly distributed among active volunteers.
 
 If you see anything that needs to be fixed and you are capable, please
 fix it. Create a local fork, make the change and submit a pull
