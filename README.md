@@ -1,6 +1,8 @@
 # Volunteering
 
-Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can contribute to Ethereum Classic development. This is a decentralized project run by volunteers.
+Ethereum Classic development actively underway by a decentralized community development initiative run by volunteers. It is an open organization where people are judged solely on the quality of their contributions.
+
+Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can contribute to Ethereum Classic development.
 
 If you are interested in community organizing, you can find more information about volunteering with other community organizers here: https://github.com/ethereumclassic
 
@@ -24,13 +26,17 @@ community.
 
 Any donations received will be fairly distributed among active volunteers.
 
+## Objective
+
+Our primary priority is maintaining existing clients currently maintained by the ICO backed Ethereum Foundation with DAO hard fork code removed to ensure easy access to the original/classic Ethereum network. We do this by keeping up with upstream patches for every major client and provide an alternative which does not require the user to use a special flag to run a node on the original/classi Ethereum network. 
+
+As we more people volunteer we can shift our focus, begin to close issues shared by both ourselves and the upstream developers. In my opinion, we should first start with restoration and access to the original/classic Ethereum network and move to a focus on security oriented updates while the growing developer community discusses and builds a roadmap for future updates to the system and which clients and projects we should support with community development.
+
 ## Projects
 A wide variety of projects need assistance, and support for languages not yet supported is also appreciated. 
 
 **Ethereum Classic Clients**
-Our primary activity until we have enough volunteers is to maintain existing clients maintained by the ICO backed Ethereum Foundation with DAO hard fork code removed. Our goal is to keep up with upstream patches for every major client and provide an alternative which does not require the user to use a special flag to run a node on the Ethereum classic network. 
 
-As we get more volunteers we can begin to close issues and focus on security oriented updates while we discuss and build a roadmap for future updates to the system.
 
 **Blockchain Explorer**
 We would like to maintain an open source blockchain explorer that is capable of verifying contracts with their compiled counterparts. This project is not directly related to the protocol, it does make the protocol more useful. If anyone is interested in assisting existing open source Ethereum block explorers or starting their own please notify us so we can contribute.
