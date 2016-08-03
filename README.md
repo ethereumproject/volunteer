@@ -36,10 +36,14 @@ As we more people volunteer we can shift our focus, begin to close issues shared
 A wide variety of projects need assistance, and support for languages not yet supported is also appreciated. 
 
 **Ethereum Classic Clients**
-
+go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration.
 
 **Blockchain Explorer**
-We would like to maintain an open source blockchain explorer that is capable of verifying contracts with their compiled counterparts. This project is not directly related to the protocol, it does make the protocol more useful. If anyone is interested in assisting existing open source Ethereum block explorers or starting their own please notify us so we can contribute.
+In response to none of the existing major Ethereum blockchain explorers are open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts allowing for more an ecosystem with greater complexity.
+
+https://github.com/ethereumproject/explorer
+
+
 
 **Multisig Trust Contract**
 A contract to serve as a trust for development
