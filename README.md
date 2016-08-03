@@ -39,12 +39,16 @@ A wide variety of projects need assistance, regardless of your experience, if yo
 
 go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration.
 
+Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
+
 
 **Blockchain Explorer**
 
 In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
 https://github.com/ethereumproject/explorer
+
+ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
 
 
 **Multisig Trust Contract**
@@ -65,3 +69,17 @@ A code generator that translates Ethereum Classic UML like smart contracts to So
 In the end a model to text transformation powered by Acceleo Engine would be running to compile that in the backstage.
 
 ... more to come ...
+
+
+## Public Trello Boards
+
+We need simple, visual way to coordinate plans and assignments. To make the processes in the organization transparent we are using public Trello boards. 
+
+For those of you who is not familiar with Trello. Trello is a collaboration tool that organizes projects into boards. In one glance, Trello shows you what's being worked on, who's working on what, and where something is in a process. It is an easy way for volunteers to quickly find tasks they can immediately work on.
+
+These boards are public and everyone can see the progress. Write access can be granted after a established track record of activity in Ethereum Classic Project.
+
+**Links**
+
+* Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
+* ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
