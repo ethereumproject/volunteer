@@ -36,22 +36,27 @@ As more people volunteer we can shift our focus, begin to close issues shared by
 A wide variety of projects need assistance, regardless of your experience, if you are interested, you should volunteer. A diversity of perspectives is important and anything you don't yet know, you can learn over time.
 
 **Ethereum Classic Clients**
+
 go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration.
 
+
 **Blockchain Explorer**
+
 In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
 https://github.com/ethereumproject/explorer
 
 
-
 **Multisig Trust Contract**
+
 A contract to serve as a trust for development
 and general enough to be repurposed for needs. This would allow donations to developers to be managed in a
 transparent way and access can be controlled by active developers who
 have built trust with the community. 
 
+
 **Visual smart contract language**
+
 Solidity is not well understood by general people specially lawyers of the future.
 https://github.com/ethereumclassic/README/issues/23
 
