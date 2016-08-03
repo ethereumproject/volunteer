@@ -30,7 +30,7 @@ Any donations received will be fairly distributed among active volunteers.
 
 Our primary priority is maintaining existing clients currently maintained by the ICO backed Ethereum Foundation with DAO hard fork code removed to ensure easy access to the original/classic Ethereum network. We do this by keeping up with upstream patches for every major client and provide an alternative which does not require the user to use a special flag to run a node on the original/classi Ethereum network. 
 
-As we more people volunteer we can shift our focus, begin to close issues shared by both ourselves and the upstream developers. In my opinion, we should first start with restoration and access to the original/classic Ethereum network and move to a focus on security oriented updates while the growing developer community discusses and builds a roadmap for future updates to the system and which clients and projects we should support with community development.
+As more people volunteer we can shift our focus, begin to close issues shared by both ourselves and the upstream developers. In my opinion, we should first start with restoration and access to the original/classic Ethereum network and move to a focus on security oriented updates while the growing developer community discusses and builds a roadmap for future updates to the system and which clients and projects we should support with community development.
 
 ## Projects
 A wide variety of projects need assistance, regardless of your experience, if you are interested, you should volunteer. A diversity of perspectives is important and anything you don't yet know, you can learn over time.
