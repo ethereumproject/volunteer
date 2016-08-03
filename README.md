@@ -39,7 +39,7 @@ A wide variety of projects need assistance, regardless of your experience, if yo
 go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration.
 
 **Blockchain Explorer**
-In response to none of the existing major Ethereum blockchain explorers are open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts allowing for more an ecosystem with greater complexity.
+In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
 https://github.com/ethereumproject/explorer
 
