@@ -33,22 +33,66 @@ Our primary priority is maintaining existing clients currently maintained by the
 As more people volunteer we can shift our focus, begin to close issues shared by both ourselves and the upstream developers. In my opinion, we should first start with restoration and access to the original/classic Ethereum network and move to a focus on security oriented updates while the growing developer community discusses and builds a roadmap for future updates to the system and which clients and projects we should support with community development.
 
 ## Projects
+
 A wide variety of projects need assistance, regardless of your experience, if you are interested, you should volunteer. A diversity of perspectives is important and anything you don't yet know, you can learn over time.
 
-**Ethereum Classic Clients**
-
-go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration.
+### Ethereum Classic Clients
 
 Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
 
+**Go-ethereum** 
+
+https://github.com/ethereumproject/go-ethereum
+
+Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
+
+Contacts: IRC oftc.net, gravity at #etc-dev
+
+**Mist browser & wallet** 
+
+https://github.com/ethereumproject/mist
+
+Mist wallet associated projects:
+ * Dapp-styles - https://github.com/ethereumproject/dapp-styles
+ * Meteor-dapp-wallet - https://github.com/ethereumproject/meteor-dapp-wallet
+ * Meteor-package-accounts - https://github.com/ethereumproject/meteor-package-accounts
+ * Meteor-package-blocks - https://github.com/ethereumproject/meteor-package-blocks
+ * Meteor-package-tools - https://github.com/ethereumproject/meteor-package-tools
+ * Meteor-package-elements - https://github.com/ethereumproject/meteor-package-elements
+ * Ether wallet - https://github.com/ethereumproject/etherwallet
+
+Contacts: 
+ * Mist - IRC oftc.net, gravity at #etc-dev
+ * Ether Wallet - Slack @jsmith_dev, @elaine, @dontpanicburns
+
+**EthereumJ**
+
+https://github.com/ethereumproject/ethereumj - Java implementation of the Ethereum Classic
+
+Contacts: Slack - @splix, @bart
+
+**PyEthereum**
+
+https://github.com/ethereumproject/pyethereum - Original/Classic version of the next generation cryptocurrency network
+
+Contacts: Slack - @eric.somdahl, @avempace
+
+
+### Associated Projects
 
 **Blockchain Explorer**
 
-In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
+https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
-https://github.com/ethereumproject/explorer
+Contacts: Slack @elaine, @dontpanicburns
 
 ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
+
+**Open Oracle Project** 
+
+https://github.com/ethereumproject/Open-Oracle-Project - Open Oracle project is a public utility to inject web/API data into the Ethereum Classic Blockchain to trigger smart contracts easily, securely and cheaply. 
+
+Contact: Slack @avtarsehra
 
 
 **Multisig Trust Contract**
@@ -67,6 +111,9 @@ https://github.com/ethereumclassic/README/issues/23
 A code generator that translates Ethereum Classic UML like smart contracts to Solidity language utilizing for example Acceleo and Papyrus plugins inside Eclipse would improve the issue. That is basically a model to text transformation whereas the model is UML and the text is Solidity code.
 
 In the end a model to text transformation powered by Acceleo Engine would be running to compile that in the backstage.
+
+Contacts: Slack @prophetdaniel
+
 
 ... more to come ...
 
