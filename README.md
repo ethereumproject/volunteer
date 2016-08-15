@@ -77,6 +77,12 @@ https://github.com/ethereumproject/pyethereum - Original/Classic version of the 
 
 Contacts: Slack - @eric.somdahl, @avempace
 
+**Cpp-Ethereum**
+
+https://github.com/ethereumproject/cpp-ethereum - Ethereum C++ client
+
+Contact: Slack - @igetgames
+
 
 ### Associated Projects
 
@@ -91,6 +97,8 @@ ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer
 **Open Oracle Project** 
 
 https://github.com/ethereumproject/Open-Oracle-Project - Open Oracle project is a public utility to inject web/API data into the Ethereum Classic Blockchain to trigger smart contracts easily, securely and cheaply. 
+
+https://github.com/ethereumproject/volunteer/issues/16
 
 Contact: Slack @avtarsehra
 
