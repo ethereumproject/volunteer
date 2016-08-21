@@ -1,5 +1,7 @@
 # Ethereum Classic Client Restoration
 
+Issue discussing Client Restoration https://github.com/ethereumproject/volunteer/issues/19
+
 This project is to help community developers coordinate and standardize our client restoration process so we quickly implement the best solution.
 
 This file can link to associated issues and be a place to aggregate
@@ -9,8 +11,11 @@ with the original/classic chain.
 ## Associated Issues
 
 https://github.com/ethereumproject/pyethereum/issues/6
+
 https://github.com/ethereumproject/ethereumj/issues/1
+
 https://github.com/ethereumproject/go-ethereum/issues/9
+
 https://github.com/ethereumproject/go-ethereum/issues/7
 
 **Bootstrap Nodes**
