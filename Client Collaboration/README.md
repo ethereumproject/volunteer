@@ -10,6 +10,8 @@ with the original/classic chain.
 
 ## Associated Issues
 
+**General Restoration Issues**
+
 https://github.com/ethereumproject/pyethereum/issues/6
 
 https://github.com/ethereumproject/ethereumj/issues/1
