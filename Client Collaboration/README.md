@@ -18,6 +18,8 @@ https://github.com/ethereumproject/go-ethereum/issues/4
 
 ## Proposed Steps
 
+Leave project names the same unless there are namespace issues so the ETC clients remain easily compatible with existing documentation.
+
 1. Remove all DAO specific code
 2. Update bootstrap nodes
 3. Add checkpoint at fork
