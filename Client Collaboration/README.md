@@ -19,6 +19,7 @@ https://github.com/ethereumproject/go-ethereum/issues/9
 https://github.com/ethereumproject/go-ethereum/issues/7
 
 **Bootstrap Nodes**
+https://github.com/ethereumproject/volunteer/issues/20
 https://github.com/ethereumproject/go-ethereum/issues/4
 
 ## Proposed Steps
