@@ -28,7 +28,7 @@ Leave project names the same unless there are namespace issues so the ETC client
 1. Remove all DAO specific code
 2. Update bootstrap nodes
 3. Add checkpoint at fork
-4. Disconnect peers who request DAO blocks
+4. Disconnect with ETF peers 
 
 *If you have time please provide elaborate and provide additional
 details.*
