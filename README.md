@@ -6,6 +6,24 @@ Are you interested in volunteering your time to help the development of Ethereum
 
 If you are interested in community organizing, you can find more information about volunteering with other community organizers here: https://github.com/ethereumclassic
 
+## Community
+
+### Slack
+
+Invitation link https://ethereumclassic.herokuapp.com/
+
+Channels: #development #website-design #dapps
+
+### IRC 
+
+Server oftc.net
+
+Channel #etc-dev
+
+### Telegram
+
+https://telegram.me/etcdev
+
 ## Structure
 
 I propose we operate our development in a similar fashion to Angel
@@ -47,7 +65,7 @@ https://github.com/ethereumproject/go-ethereum
 
 Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
 
-Contacts: IRC oftc.net, gravity at #etc-dev
+Contacts: IRC Server oftc.net, channel #etc-dev, contact @gravity
 
 **Mist browser & wallet** 
 
@@ -63,7 +81,7 @@ Mist wallet associated projects:
  * Ether wallet - https://github.com/ethereumproject/etherwallet
 
 Contacts: 
- * Mist - IRC oftc.net, gravity at #etc-dev
+ * Mist - IRC Server oftc.net, channel #etc-dev, contact @gravity
  * Ether Wallet - Slack @jsmith_dev, @elaine, @dontpanicburns
 
 **EthereumJ**
