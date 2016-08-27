@@ -59,6 +59,8 @@ A wide variety of projects need assistance, regardless of your experience, if yo
 
 Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
 
+Build Server (TeamCity) http://build.ethereumclassic.org/login.html
+
 **Go-ethereum** 
 
 https://github.com/ethereumproject/go-ethereum
