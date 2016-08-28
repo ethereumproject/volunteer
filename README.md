@@ -61,6 +61,8 @@ Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-dev
 
 Build Server (TeamCity) http://build.ethereumclassic.org/login.html
 
+Process of client restoration https://github.com/ethereumproject/volunteer/tree/master/Client%20Collaboration
+
 **Go-ethereum** 
 
 https://github.com/ethereumproject/go-ethereum
