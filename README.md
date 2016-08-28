@@ -69,6 +69,19 @@ Go language implementation of the original/classic design of the Ethereum protoc
 
 Contacts: IRC Server oftc.net, channel #etc-dev, contact @gravity
 
+**Bomb Defusal**
+
+ETC Bomb Disposal Public Board https://trello.com/b/ZuTNRTsW/etc-bomb-disposal
+
+https://github.com/ethereumproject/thebomb
+
+https://github.com/ethereumproject/go-ethereum/issues/11
+
+Contacts: IRC Server oftc.net, channel #etc-dev @gravity
+
+Slack @dontpanicburns
+
+
 **Mist browser & wallet** 
 
 https://github.com/ethereumproject/mist
@@ -109,11 +122,12 @@ Contact: Slack - @igetgames
 
 **Blockchain Explorer**
 
+ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
+
 https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
 Contacts: Slack @elaine, @dontpanicburns
 
-ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
 
 **Open Oracle Project** 
 
