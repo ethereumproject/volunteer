@@ -16,9 +16,7 @@ Channels: #development #website-design #dapps
 
 ### IRC 
 
-Server oftc.net
-
-Channel #etc-dev
+Server oftc.net, channel #etc-dev
 
 ### Telegram
 
@@ -69,7 +67,7 @@ https://github.com/ethereumproject/go-ethereum
 
 Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
 
-Contacts: IRC Server oftc.net, channel #etc-dev, contact @gravity
+Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity
 
 **Bomb Defusal**
 
@@ -83,7 +81,7 @@ Related issue:
 
 https://github.com/ethereumproject/go-ethereum/issues/11
 
-Contacts: IRC Server oftc.net, channel #etc-dev @gravity, Slack @dontpanicburns
+Contacts: IRC Server oftc.net, channel #etc-dev @whatisgravity, Slack @dontpanicburns
 
 
 **Mist browser & wallet** 
@@ -100,7 +98,7 @@ Mist wallet associated projects:
  * Ether wallet - https://github.com/ethereumproject/etherwallet
 
 Contacts: 
- * Mist - IRC Server oftc.net, channel #etc-dev, contact @gravity
+ * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity
  * Ether Wallet - Slack @jsmith_dev, @elaine, @dontpanicburns
 
 **EthereumJ**
@@ -121,21 +119,39 @@ https://github.com/ethereumproject/cpp-ethereum - Ethereum C++ client
 
 Contact: Slack - @igetgames
 
+**Etherjar**
+
+https://github.com/ethereumproject/etherjar - Lightweight Java client to Ethereum blockchain
+
+Contacts: Slack @splix, @eric.somdahl
+
 
 ### Associated Projects
 
-**Blockchain Explorer**
+**Blockchain Explorer** https://etherhub.io/
 
 ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
 
 https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
-Contacts: Slack @elaine, @dontpanicburns
+Contacts: Slack @elaine, @sianyu, @dontpanicburns
 
+**Social Fork Analysis**
+
+https://github.com/ethereumproject/social-fork-analysis - A citizen journalism project doing social network analysis with the goal of creating an easy to use data set for journalists and researchers.
+
+Contacts: IRC Server oftc.net, channel #etc-dev, @whatisgravity
 
 **Open Oracle Project** 
 
-https://github.com/ethereumproject/Open-Oracle-Project - Open Oracle project is a public utility to inject web/API data into the Ethereum Classic Blockchain to trigger smart contracts easily, securely and cheaply. 
+https://github.com/ethereumproject/Open-Oracle-Project - Open Oracle project is a public utility to inject web/API data into the Ethereum Classic Blockchain to trigger smart contracts easily, securely and cheaply. Looking for volunteers that would like to be a part of this project.
+
+Key skills/expertise required:
+
+1. API's
+2. Backend
+3. Smart Contracts / Solidity
+4. Consensus Mechanisms/Algorithms
 
 https://github.com/ethereumproject/volunteer/issues/16
 
