@@ -71,15 +71,11 @@ Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity
 
 **Bomb Defusal**
 
+https://github.com/ethereumproject/volunteer/issues/28
+
 Public board https://trello.com/b/ZuTNRTsW/etc-bomb-disposal
 
-Bomb defusal organization is currently being organized in the project: 
-
-https://github.com/ethereumproject/thebomb
-
-Related issue: 
-
-https://github.com/ethereumproject/go-ethereum/issues/11
+Related issue https://github.com/ethereumproject/go-ethereum/issues/11
 
 Contacts: IRC Server oftc.net, channel #etc-dev @whatisgravity, Slack @dontpanicburns
 
