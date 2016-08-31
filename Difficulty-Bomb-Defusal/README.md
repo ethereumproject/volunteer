@@ -1,4 +1,6 @@
-# The Bomb
+## The Difficulty Bomb
+@realcodywburns committed on GitHub 19 days ago
+
 
 ![etc bomb](http://i.imgur.com/w9ZxtuN.jpg)
 
@@ -8,17 +10,20 @@ The need for a stable code to neutralize the difficulty equation known as 'the b
 
 Branches will be formed on indivdual core projects for bomb disposal. 
 
-##Task 1 
+###Task 1 
   - Identify the exponential difficulty code in each project
 
-##Task 2
+###Task 2
   - Find way to Render the code harmless by deletion or circumvention
 
-##Task 3 
+###Task 3 
   - Add 'DIEHARD' fork code to accomplish task 2 at a predetermined block number for a universal sync transition
   
 ###Task 4
   - Testing
+
+
+Once testing is complete and the code is ready, create an EIP to present the tested plan to the wider community. If accepted add the new code to all the Ethereum classic clients.
 
 ------------------
 
