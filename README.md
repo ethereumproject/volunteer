@@ -99,7 +99,7 @@ Contacts:
 
 **EthereumJ**
 
-https://github.com/ethereumproject/ethereumj - Java implementation of the Ethereum Classic
+https://github.com/splix/ethereumj_classic - Java implementation of the Ethereum Classic
 
 Contacts: Slack - @splix, @bart
 
