@@ -124,7 +124,9 @@ Contacts: Slack @splix, @eric.somdahl
 
 ### Associated Projects
 
-**Blockchain Explorer** https://etherhub.io/
+Working on a project using ETC and looking for collaborators? Feel free to add it to this list.
+
+**Blockchain Explorer** http://explorer.etherhub.io
 
 ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
 
@@ -137,6 +139,19 @@ Contacts: Slack @elaine, @sianyu, @dontpanicburns
 https://github.com/ethereumproject/social-fork-analysis - A citizen journalism project doing social network analysis with the goal of creating an easy to use data set for journalists and researchers.
 
 Contacts: IRC Server oftc.net, channel #etc-dev, @whatisgravity
+
+**ETC-CX-Wallet**
+
+https://github.com/realcodywburns/ETC-CX-Wallet - Ethereum classic chrome extension wallet. This project is a sub-project of https://github.com/ethereumproject/etherwallet
+
+Contacts: Slack @dontpanicburns
+
+**GimmeDapp**
+
+https://github.com/realcodywburns/gimme-dapp - A social platform for the developer community to showcase their dapps and let the community upvote, downvote, or comment on the ideas.
+
+Contacts: Slack @dontpanicburns
+
 
 **Open Oracle Project** 
 
