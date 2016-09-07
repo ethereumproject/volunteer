@@ -205,3 +205,4 @@ These boards are public and everyone can see the progress. Write access can be g
 
 * Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
 * ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
+* Ethereum Classic Marketing & Research Team https://trello.com/ethereumclassicmr
