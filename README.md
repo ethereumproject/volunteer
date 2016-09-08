@@ -53,7 +53,7 @@ As more people volunteer we can shift our focus, begin to close issues shared by
 
 A wide variety of projects need assistance, regardless of your experience, if you are interested, you should volunteer. A diversity of perspectives is important and anything you don't yet know, you can learn over time.
 
-### Ethereum Classic Clients
+### Ethereum Classic Core Projects
 
 Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
 
@@ -121,6 +121,14 @@ https://github.com/ethereumproject/etherjar - Lightweight Java client to Ethereu
 
 Contacts: Slack @splix, @eric.somdahl
 
+**Classic Ethereum Dapp UI Components**
+
+https://github.com/ethereumproject/classic-dapp-ui - Javascript and CSS UI components to build Dapps for Ethereum Classic. 
+
+Looking for developers, testers, designers and doc writers.
+
+Contacts: Slack - @splix
+
 
 ### Associated Projects
 
@@ -166,7 +174,13 @@ Key skills/expertise required:
 
 https://github.com/ethereumproject/volunteer/issues/16
 
-Contact: Slack @avtarsehra
+Contacts: Slack @avtarsehra
+
+**Tortuga**
+
+https://github.com/realcodywburns/tortuga - Localbitcoins for ETC traded on chain
+
+Contacts: Slack @dontpanicburns
 
 
 **Multisig Trust Contract**
@@ -192,6 +206,9 @@ Contacts: Slack @prophetdaniel
 
 ... more to come ...
 
+## Volunteer GPG Keys
+
+https://github.com/ethereumproject/volunteer/tree/master/Volunteer-Public-Keys - GPG keys of volunteers on the Ethereum Classic project
 
 ## Public Trello Boards
 
