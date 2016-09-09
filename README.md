@@ -12,7 +12,9 @@ If you are interested in community organizing, you can find more information abo
 
 Invitation link https://ethereumclassic.herokuapp.com/
 
-Channels: #development #website-design #dapps
+https://etcslack.herokuapp.com/
+
+Channels: #development #designx #dapps #contracts
 
 ### IRC 
 
