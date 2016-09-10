@@ -44,11 +44,3 @@ Bomb defusal organization is currently being organized in the following
 project:
 
 https://github.com/ethereumproject/volunteer/tree/master/Difficulty-Bomb-Defusal
-
-## Related Issues
-
-https://github.com/ethereumproject/go-ethereum/issues/11
-
-## Related Pull Issues
-
-https://github.com/ethereumproject/go-ethereum/pull/12
