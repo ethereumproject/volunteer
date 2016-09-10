@@ -12,3 +12,6 @@ The EIP will be announced to the wider community, and if they accept the
 changes it will be immediately implemented in all Ethereum classic clients
 maintained by the Ethereum Project.
 
+### Notes
+
+[go-ethereum](go-ethereum.md)
