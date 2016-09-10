@@ -43,7 +43,7 @@ details.*
 Bomb defusal organization is currently being organized in the following
 project:
 
-https://github.com/ethereumproject/thebomb
+https://github.com/ethereumproject/volunteer/tree/master/Difficulty-Bomb-Defusal
 
 ## Related Issues
 
