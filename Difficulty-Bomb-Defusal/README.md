@@ -50,13 +50,13 @@ Change the fuse
 
 ```100000``` sets the pace of the bomb. This is 'the fuse' A larger number would slow the bomb down. 
 
-The ```- 2``` in the algo was origanally set as "the bomb" was not to be engaged until after block 200000.    
+The ```- 2``` in the algo was originally set as "the bomb" was not to be engaged until after block 200000.    
 
 ###Kick the Can Method #2
 
 Reset the delay
 
-the ```- 2``` in the algo was origanally set as "the bomb" was not to be engaged until after block 200000.Changing this number to a higher number allows the bomb to be delayed. i.e. ```-50``` would reset and delay the bomb from starting until block 50000000
+the ```- 2``` in the algo was originally set as "the bomb" was not to be engaged until after block 200000.Changing this number to a higher number allows the bomb to be delayed. i.e. ```-50``` would reset and delay the bomb from starting until block 50000000
 
 
 ### Research
