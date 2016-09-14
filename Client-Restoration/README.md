@@ -14,8 +14,6 @@ with the original/classic chain.
 
 https://github.com/ethereumproject/pyethereum/issues/6
 
-https://github.com/ethereumproject/ethereumj/issues/1
-
 https://github.com/ethereumproject/go-ethereum/issues/9
 
 https://github.com/ethereumproject/go-ethereum/issues/7
