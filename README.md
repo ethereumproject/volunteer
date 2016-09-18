@@ -73,13 +73,19 @@ Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity
 
 **Bomb Defusal**
 
+ECIP-1010 Delay Difficulty Bomb Explosion - https://github.com/ethereumproject/ECIPs/blob/master/ECIPs/ECIP-1010.md
+
+Related issues:
+
+https://github.com/ethereumproject/ECIPs/issues/4
+
 https://github.com/ethereumproject/volunteer/issues/28
+
+https://github.com/ethereumproject/go-ethereum/issues/11
 
 Public board https://trello.com/b/ZuTNRTsW/etc-bomb-disposal
 
-Related issue https://github.com/ethereumproject/go-ethereum/issues/11
-
-Contacts: IRC Server oftc.net, channel #etc-dev @whatisgravity, Slack @dontpanicburns
+Contacts: IRC Server oftc.net, channel #etc-dev @whatisgravity, Slack @dontpanicburns, @splix, @elaine
 
 
 **Mist browser & wallet** 
