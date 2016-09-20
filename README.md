@@ -71,9 +71,7 @@ Go language implementation of the original/classic design of the Ethereum protoc
 
 Development builds https://bintray.com/ethereumproject/GoEthereumClassic/go-ethereum/develop#files/
 
-Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity
-
-Slack @splix, @elaine
+Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix, @elaine
 
 **Bomb Defusal**
 
