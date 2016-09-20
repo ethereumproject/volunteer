@@ -69,7 +69,11 @@ https://github.com/ethereumproject/go-ethereum
 
 Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
 
+Development builds https://bintray.com/ethereumproject/GoEthereumClassic/go-ethereum/develop#files/
+
 Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity
+
+Slack @splix, @elaine
 
 **Bomb Defusal**
 
