@@ -36,6 +36,17 @@ Leave project names the same unless there are namespace issues so the ETC client
 *If you have time please provide elaborate and provide additional
 details.*
 
+## Client Distribution
+
+The following public key is being used to sign pre-built binaries:
+
+[eric.somdahl@ethereumclassic.org](code_signing.asc)
+
+This key can also be retrieved from this URL:
+[https://api.bintray.com/orgs/ethereumproject/keys/gpg/public.key](https://api.bintray.com/orgs/ethereumproject/keys/gpg/public.key)
+
+[I affirm that I control the above keypair](message.txt.asc)
+
 # Bomb Defusal
 
 Bomb defusal organization is currently being organized in the following
