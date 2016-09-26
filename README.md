@@ -164,34 +164,11 @@ https://github.com/realcodywburns/ETC-CX-Wallet - Ethereum classic chrome extens
 
 Contacts: Slack @dontpanicburns
 
-**GimmeDapp**
-
-https://github.com/realcodywburns/gimme-dapp - A social platform for the developer community to showcase their dapps and let the community upvote, downvote, or comment on the ideas.
-
-Contacts: Slack @dontpanicburns
-
-
-**Open Oracle Project** 
-
-https://github.com/ethereumproject/Open-Oracle-Project - Open Oracle project is a public utility to inject web/API data into the Ethereum Classic Blockchain to trigger smart contracts easily, securely and cheaply. Looking for volunteers that would like to be a part of this project.
-
-Key skills/expertise required:
-
-1. API's
-2. Backend
-3. Smart Contracts / Solidity
-4. Consensus Mechanisms/Algorithms
-
-https://github.com/ethereumproject/volunteer/issues/16
-
-Contacts: Slack @avtarsehra
-
 **Tortuga**
 
 https://github.com/realcodywburns/tortuga - Localbitcoins for ETC traded on chain
 
 Contacts: Slack @dontpanicburns
-
 
 **Multisig Trust Contract**
 
@@ -199,20 +176,6 @@ A contract to serve as a trust for development
 and general enough to be repurposed for needs. This would allow donations to developers to be managed in a
 transparent way and access can be controlled by active developers who
 have built trust with the community. 
-
-
-**Visual smart contract language**
-
-https://github.com/ethereumclassic/README/issues/23
-
-Solidity is not well understood by general people specially lawyers of the future.
-
-A code generator that translates Ethereum Classic UML like smart contracts to Solidity language utilizing for example Acceleo and Papyrus plugins inside Eclipse would improve the issue. That is basically a model to text transformation whereas the model is UML and the text is Solidity code.
-
-In the end a model to text transformation powered by Acceleo Engine would be running to compile that in the backstage.
-
-Contacts: Slack @prophetdaniel
-
 
 ... more to come ...
 
