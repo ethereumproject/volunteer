@@ -104,32 +104,14 @@ Mist wallet associated projects:
  * Ether wallet - https://github.com/ethereumproject/etherwallet
 
 Contacts: 
- * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity
- * Ether Wallet - Slack @jsmith_dev, @elaine, @dontpanicburns
-
-**EthereumJ**
-
-https://github.com/splix/ethereumj_classic - Java implementation of the Ethereum Classic
-
-Contacts: Slack - @splix, @bart
-
-**PyEthereum**
-
-https://github.com/ethereumproject/pyethereum - Original/Classic version of the next generation cryptocurrency network
-
-Contacts: Slack - @eric.somdahl, @avempace
-
-**Cpp-Ethereum**
-
-https://github.com/ethereumproject/cpp-ethereum - Ethereum C++ client
-
-Contact: Slack - @igetgames
+ * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix
+ * Ether Wallet - Slack @elaine, @dontpanicburns
 
 **Etherjar**
 
 https://github.com/ethereumproject/etherjar - Lightweight Java client to Ethereum blockchain
 
-Contacts: Slack @splix, @eric.somdahl
+Contacts: Slack @dulanov
 
 **Classic Ethereum Dapp UI Components**
 
@@ -137,7 +119,7 @@ https://github.com/ethereumproject/classic-dapp-ui - Javascript and CSS UI compo
 
 Looking for developers, testers, designers and doc writers.
 
-Contacts: Slack - @splix
+Contacts: Slack - @sianyu, @splix 
 
 
 ### Associated Projects
@@ -169,13 +151,6 @@ Contacts: Slack @dontpanicburns
 https://github.com/realcodywburns/tortuga - Localbitcoins for ETC traded on chain
 
 Contacts: Slack @dontpanicburns
-
-**Multisig Trust Contract**
-
-A contract to serve as a trust for development
-and general enough to be repurposed for needs. This would allow donations to developers to be managed in a
-transparent way and access can be controlled by active developers who
-have built trust with the community. 
 
 ... more to come ...
 
