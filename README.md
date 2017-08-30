@@ -114,12 +114,6 @@ Contacts:
  * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix
  * Ether Wallet - Slack @elaine, @dontpanicburns
 
-**Etherjar**
-
-https://github.com/ethereumproject/etherjar - Lightweight Java client to Ethereum blockchain
-
-Contacts: Slack @dulanov
-
 **Classic Ethereum Dapp UI Components**
 
 https://github.com/ethereumproject/classic-dapp-ui - Javascript and CSS UI components to build Dapps for Ethereum Classic. 
