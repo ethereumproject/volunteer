@@ -9,13 +9,9 @@ If you are interested in community organization, you can find more information a
 
 ## Community
 
-### Slack
+### Discord
 
-Invitation link https://ethereumclassic.herokuapp.com/
-
-https://etcslack.herokuapp.com/
-
-Channels: #development #designx #dapps #contracts
+Permanent Invitation link https://discord.gg/G7GpJPX
 
 ### IRC 
 
