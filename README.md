@@ -11,7 +11,7 @@ If you are interested in community organization, you can find more information a
 
 ### Discord
 
-Permanent Invitation link https://discord.gg/G7GpJPX
+Invitation link https://discord.gg/G7GpJPX
 
 ### IRC 
 
