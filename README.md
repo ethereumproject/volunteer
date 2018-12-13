@@ -1,4 +1,4 @@
-# ⛔️ WARNING ⛔️ : Depreciated repository. Please use http://github.com/ethereumclassic/volunteer for Ethereum Classic volunteer oppoturnities.
+# ⛔️ WARNING ⛔️ : Deprecated repository. Please use http://github.com/ethereumclassic/volunteer for Ethereum Classic volunteer oppoturnities.
 
 # Volunteering
 
