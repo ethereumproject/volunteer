@@ -5,7 +5,6 @@ It is an open organization where people are judged solely on the quality of thei
 
 Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can contribute to Ethereum Classic development.
 
-If you are interested in community organization, you can find more information about volunteering with other community organizers here: https://github.com/ethereumclassic
 
 ## Community
 
