@@ -1,5 +1,3 @@
-# ⛔️ WARNING ⛔️ : Deprecated repository. Please use http://github.com/ethereumclassic/volunteer for Ethereum Classic volunteer oppoturnities.
-
 # Volunteering
 
 Ethereum Classic development is actively underway by a decentralized community development initiative run by volunteers.
