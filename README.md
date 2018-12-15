@@ -73,7 +73,7 @@ Go language implementation of the original/classic design of the Ethereum protoc
 
 Development builds https://bintray.com/ethereumproject/GoEthereumClassic/go-ethereum/develop#files/
 
-Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix, @elaine
+Contacts: IRC Server oftc.net, channel #etc-dev
 
 **Bomb Defusal**
 
@@ -89,8 +89,6 @@ https://github.com/ethereumproject/go-ethereum/issues/11
 
 Public board https://trello.com/b/ZuTNRTsW/etc-bomb-disposal
 
-Contacts: IRC Server oftc.net, channel #etc-dev @whatisgravity, Slack @dontpanicburns, @splix, @elaine
-
 
 **Mist browser & wallet** 
 
@@ -105,17 +103,12 @@ Mist wallet associated projects:
  * Meteor-package-elements - https://github.com/ethereumproject/meteor-package-elements
  * Ether wallet - https://github.com/ethereumproject/etherwallet
 
-Contacts: 
- * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix
- * Ether Wallet - Slack @elaine, @dontpanicburns
 
 **Classic Ethereum Dapp UI Components**
 
 https://github.com/ethereumproject/classic-dapp-ui - Javascript and CSS UI components to build Dapps for Ethereum Classic. 
 
 Looking for developers, testers, designers and doc writers.
-
-Contacts: Slack - @sianyu, @splix 
 
 
 ### Associated Projects
@@ -128,27 +121,12 @@ ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer
 
 https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
-Contacts: Slack @elaine, @sianyu, @dontpanicburns
 
 **Social Fork Analysis**
 
 https://github.com/ethereumproject/social-fork-analysis - A citizen journalism project doing social network analysis with the goal of creating an easy to use data set for journalists and researchers.
 
-Contacts: IRC Server oftc.net, channel #etc-dev, @whatisgravity
 
-**ETC-CX-Wallet**
-
-https://github.com/realcodywburns/ETC-CX-Wallet - Ethereum classic chrome extension wallet. This project is a sub-project of https://github.com/ethereumproject/etherwallet
-
-Contacts: Slack @dontpanicburns
-
-**Tortuga**
-
-https://github.com/realcodywburns/tortuga - Localbitcoins for ETC traded on chain
-
-Contacts: Slack @dontpanicburns
-
-... more to come ...
 
 ## Volunteers' GPG Keys
 
