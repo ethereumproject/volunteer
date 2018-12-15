@@ -61,8 +61,6 @@ A diversity of perspectives is important and anything you don't yet know, you ca
 
 Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
 
-Build Server (TeamCity) http://build.ethereumclassic.org/login.html
-
 Process of client restoration https://github.com/ethereumproject/volunteer/tree/master/Client%20Collaboration
 
 **Go-ethereum** 
@@ -71,7 +69,6 @@ https://github.com/ethereumproject/go-ethereum
 
 Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
 
-Development builds https://bintray.com/ethereumproject/GoEthereumClassic/go-ethereum/develop#files/
 
 Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix, @elaine
 
@@ -103,7 +100,7 @@ Mist wallet associated projects:
  * Meteor-package-blocks - https://github.com/ethereumproject/meteor-package-blocks
  * Meteor-package-tools - https://github.com/ethereumproject/meteor-package-tools
  * Meteor-package-elements - https://github.com/ethereumproject/meteor-package-elements
- * Ether wallet - https://github.com/ethereumproject/etherwallet
+ * Ether wallet - https://github.com/ethereumclassic/etherwallet
 
 Contacts: 
  * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix
@@ -126,7 +123,7 @@ Working on a project using ETC and looking for collaborators? Feel free to add i
 
 ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
 
-https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
+https://github.com/ethereumclassic/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
 Contacts: Slack @elaine, @sianyu, @dontpanicburns
 
@@ -136,19 +133,8 @@ https://github.com/ethereumproject/social-fork-analysis - A citizen journalism p
 
 Contacts: IRC Server oftc.net, channel #etc-dev, @whatisgravity
 
-**ETC-CX-Wallet**
 
-https://github.com/realcodywburns/ETC-CX-Wallet - Ethereum classic chrome extension wallet. This project is a sub-project of https://github.com/ethereumproject/etherwallet
 
-Contacts: Slack @dontpanicburns
-
-**Tortuga**
-
-https://github.com/realcodywburns/tortuga - Localbitcoins for ETC traded on chain
-
-Contacts: Slack @dontpanicburns
-
-... more to come ...
 
 ## Volunteers' GPG Keys
 
