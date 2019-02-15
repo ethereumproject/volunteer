@@ -8,9 +8,9 @@ Are you interested in volunteering your time to help the development of Ethereum
 
 ## Community
 
-### DISCORD
+### Discord
 
-Invitation link https://discord.gg/G7GpJPX
+ ![discord](https://i.imgur.com/e7naFC2.png "discord link") https://discord.gg/NgzMPaj 
 
 ### IRC 
 
@@ -18,7 +18,8 @@ Server oftc.net, channel #etc-dev
 
 ### Telegram
 
-https://telegram.me/etcdev
+
+ ![telegram](https://i.imgur.com/KQxGs5I.png "telegram link") https://t.me/etclabs
 
 ## Structure
 
@@ -59,8 +60,6 @@ A diversity of perspectives is important and anything you don't yet know, you ca
 
 ### Ethereum Classic Core Projects
 
-Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
-
 Build Server (TeamCity) http://build.ethereumclassic.org/login.html
 
 Process of client restoration https://github.com/ethereumproject/volunteer/tree/master/Client%20Collaboration
@@ -86,9 +85,6 @@ https://github.com/ethereumproject/ECIPs/issues/4
 https://github.com/ethereumproject/volunteer/issues/28
 
 https://github.com/ethereumproject/go-ethereum/issues/11
-
-Public board https://trello.com/b/ZuTNRTsW/etc-bomb-disposal
-
 
 **Mist browser & wallet** 
 
@@ -117,8 +113,6 @@ Working on a project using ETC and looking for collaborators? Feel free to add i
 
 **Blockchain Explorer** http://explorer.etherhub.io
 
-ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
-
 https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
 
@@ -126,22 +120,6 @@ https://github.com/ethereumproject/explorer - In response to none of the existin
 
 https://github.com/ethereumproject/social-fork-analysis - A citizen journalism project doing social network analysis with the goal of creating an easy to use data set for journalists and researchers.
 
-
-
 ## Volunteers' GPG Keys
 
 https://github.com/ethereumproject/volunteer/tree/master/Volunteer-Public-Keys - GPG keys of volunteers on the Ethereum Classic project
-
-## Public Trello Boards
-
-We need a simple, visual way to coordinate plans and assignments. To make the processes in the organization transparent, we use public Trello boards. 
-
-For those of you not familiar with Trello, Trello is a collaboration tool that organizes projects into boards. In one glance, Trello shows you what's being worked on, who's working on what, and where something is in a process. It is an easy way for volunteers to quickly find tasks that they can immediately work on.
-
-These boards are public and everyone can see the progress. Write access can be granted after a established track record of activity in Ethereum Classic Project.
-
-**Links**
-
-* Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
-* ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
-* Ethereum Classic Marketing & Research Team https://trello.com/ethereumclassicmr
